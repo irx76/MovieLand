@@ -34,7 +34,9 @@ const App = () => {
 
     return(
         <div className="app">
-            <h1>Hello World</h1>
+            <h1>MovieLand
+
+            </h1>
 
             <div className="search">
                 <input placeholder="Search for a movie" value={searchTerm}
