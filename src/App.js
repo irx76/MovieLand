@@ -34,7 +34,7 @@ const App = () => {
 
     return(
         <div className="app">
-            <h1>MovieLand
+            <h1>MOVIELAND
 
             </h1>
 
